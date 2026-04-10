@@ -24,4 +24,4 @@ Veedma is a men’s health clinic delivering safe, science-based testosterone ca
 
 - Website: https://veedma.com
 - Pricing: https://veedma.com/pricing
-- LinkedIn: https://www.linkedin.com/company/veedmahealth/
+- LinkedIn: https://www.linkedin.com/company/veedma-health/
